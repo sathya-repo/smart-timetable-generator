@@ -35,4 +35,3 @@ A Python and Streamlit application that generates class timetables based on subj
 - Username: `admin`
 - Password: `1234`
 
-Note: The login credentials are hardcoded for demonstration purposes. Replace them with secure authentication before deploying the application.
